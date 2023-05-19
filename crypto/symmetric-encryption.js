@@ -20,4 +20,4 @@ console.log(decryptedMessage);
 
 
 //Symmetric Encryption Requires Shared Password's
-//To Avoid this Sharing USE of PUBLIC KEY and PRIVATE KEY is introduced where PUBLIC KEY and PRIVATE KEYS are Mathematically Linked
+//To Avoid this Sharing USE of PUBLIC KEY , PRIVATE KEY is introduced where PUBLIC KEY and PRIVATE KEYS are Mathematically Linked
