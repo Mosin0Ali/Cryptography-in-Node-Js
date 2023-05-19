@@ -1,5 +1,5 @@
-const data = [2, 5, 3, 6, 8, 9, -12, 11];
-
+// const data = [2, 5, 3, 6, 8, 9, -12, 11];
+const data = ['Samia','Samib','Samic','Samie','Samid'];
 
 function merge_sort(arr) {
     if (arr.length < 2) {
@@ -22,6 +22,7 @@ function merge(leftArray, rightArray) {
     }
     return [...sortedArr, ...leftArray, ...rightArray];
 }
+
 
 console.log(merge_sort(data));
 
