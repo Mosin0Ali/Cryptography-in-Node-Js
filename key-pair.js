@@ -13,3 +13,10 @@ const {privateKey, publicKey}=generateKeyPairSync('rsa',{
     }
 });
 
+
+console.log(privateKey,publicKey);
+
+module.exports={
+    privateKey,publicKey
+}
+
