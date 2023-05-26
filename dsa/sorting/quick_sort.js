@@ -1,3 +1,7 @@
+/**
+ * The key process in quickSort is a partition(). The target of partitions is to place the pivot (any element can be chosen to be a pivot) at its correct position in the sorted array and put all smaller elements to the left of the pivot, and all greater elements to the right of the pivot.
+ */
+
 const array = [-6, 20, 8, -2, 4];
 
 function swap(arr, i, j) {

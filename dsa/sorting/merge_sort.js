@@ -1,3 +1,6 @@
+/**
+ * Divide the array into two halves sort each half and then merge the sorted halves back together.Repeat the process for each half(Recursively) 
+ */
 // const data = [2, 5, 3, 6, 8, 9, -12, 11];
 const data = ["Elephant",
     "Sunshine",
