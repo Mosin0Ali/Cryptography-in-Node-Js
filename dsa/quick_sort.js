@@ -1,4 +1,4 @@
-const array=[-6,20,8,-2,4];
+const array = [-6, 20, 8, -2, 4];
 
 function swap(arr, i, j) {
     const temp = arr[i];
